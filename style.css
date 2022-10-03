@@ -20,6 +20,7 @@ h1{
 h2{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-size: 30px;
+   text-align: center;
 }
 img{
     border-radius:53% 47% 47% 53% / 49% 49% 51% 51% ;
@@ -41,7 +42,8 @@ p{
    font-size: 15px;
    border: 20px;
    border: solid;
-   border-color: rgb(215, 25, 8)
+   border-color: rgb(215, 25, 8);
+   padding: 20px;
 }
 ul{
    border: 20px;
